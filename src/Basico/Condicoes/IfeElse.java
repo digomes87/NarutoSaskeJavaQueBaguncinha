@@ -1,4 +1,4 @@
-package Condicoes;
+package Basico.Condicoes;
 
 public class IfeElse {
     public static void main(String[] args) {

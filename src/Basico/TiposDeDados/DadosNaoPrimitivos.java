@@ -1,6 +1,4 @@
-package TiposDeDados;
-
-import java.util.Locale;
+package Basico.TiposDeDados;
 
 public class DadosNaoPrimitivos {
     public static void main(String[] args) {

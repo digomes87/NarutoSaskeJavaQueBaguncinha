@@ -1,4 +1,4 @@
-package Desafio1;
+package Basico.Desafio1;
 
 public class VilaDaFolha {
     public static void main(String[] args) {
