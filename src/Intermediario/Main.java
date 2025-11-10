@@ -52,6 +52,5 @@ public class Main {
         boruto.AtivarJougan();
         boruto.AtivarKarma();
         boruto.ModoSabio();
-
     }
 }
